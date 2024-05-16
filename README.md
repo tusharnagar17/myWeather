@@ -60,11 +60,11 @@
 
 ## About The Project
 
+This project is a React Native application that provides live weather details using a free weather API. The app allows users to search for and view weather forecasts for various cities, utilizing async storage to save and retrieve data for a seamless user experience.
+
 ### in-APP SCREENS
 
 [![Product Name Screen Shot][app-screen]](https://github.com/tusharnagar17/expenseTracker)
-
-<img src="/assets/github.jpg" height="100px" width="100px" alt="app-screen">
 
 ### Key Features
 
@@ -80,7 +80,7 @@
 - **React Native**
 - **Typescript**
 - **React-native-icons**
-- **React-Native-Async-Storage**
+- **React-Native-Async-Storage** - utilizing async storage to save and retrieve data for a seamless user experience
 - **Native Wind** - a tailwind alternative to react-native apps.
 
 <!-- GETTING STARTED -->
