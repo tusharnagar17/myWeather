@@ -5,6 +5,8 @@ import {
   Image,
   TextInput,
   ScrollView,
+  KeyboardAvoidingView,
+  Platform,
 } from "react-native";
 import React, { useCallback, useState } from "react";
 import { StatusBar } from "expo-status-bar";
